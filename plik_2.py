@@ -7,3 +7,5 @@ Created on Sat Mar 16 12:10:24 2019
 
 a2 =['jhk', 'poio', 'tr']
 print(a2[2])
+
+f = 'f' 
