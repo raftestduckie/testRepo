@@ -1,0 +1,2 @@
+e = 'ooi'
+print(e)
