@@ -11,3 +11,5 @@ print(a)
 print(a[0], b)
 
 c = 'rere' # dodane 22.03 12.40 do master
+
+d = 'trt' # dodane 22.03 12.40 do master
