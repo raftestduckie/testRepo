@@ -7,7 +7,7 @@ Created on Sat Mar 16 12:07:05 2019
 
 import plik_2
 
-a = [2, 3]
+a = [2, 3, 'uy']
 b = 2
 print(a)
 print(a[0], b, 'plik_1_1")
