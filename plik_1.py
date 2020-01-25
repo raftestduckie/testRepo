@@ -12,4 +12,6 @@ b = 2
 print(a)
 print(a[0], b, 'plik_1_1")
 
+print(2)
+
 c = 'rere' # dodane 22.03 12.40 do master
